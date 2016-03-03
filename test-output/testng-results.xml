@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8400" started-at="2016-03-03T13:42:43Z" finished-at="2016-03-03T13:42:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8400" started-at="2016-03-03T13:42:43Z" finished-at="2016-03-03T13:42:52Z">
+      <class name="BabaJob.JobSeeker.JsExecutor">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:BabaJob.JobSeeker.JsExecutor@30c7da1e]" name="SetUp" is-config="true" duration-ms="3522" started-at="2016-03-03T19:12:40Z" finished-at="2016-03-03T19:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="JobSeekerSignUp()[pri:0, instance:BabaJob.JobSeeker.JsExecutor@30c7da1e]" name="JobSeekerSignUp" duration-ms="8385" started-at="2016-03-03T19:12:43Z" finished-at="2016-03-03T19:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JobSeekerSignUp -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:BabaJob.JobSeeker.JsExecutor@30c7da1e]" name="TearDown" is-config="true" duration-ms="0" started-at="2016-03-03T19:12:52Z" finished-at="2016-03-03T19:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- BabaJob.JobSeeker.JsExecutor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
